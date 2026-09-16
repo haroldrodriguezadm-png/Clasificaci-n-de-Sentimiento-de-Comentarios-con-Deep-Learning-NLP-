@@ -38,8 +38,8 @@ En vez de elegir una sola opción y ocultar el trade-off, el proyecto implementa
 
 ```bash
 # Clonar el repositorio
-git clone <URL-de-tu-repo>
-cd <nombre-repo>
+git clone <https://github.com/haroldrodriguezadm-png/Clasificaci-n-de-Sentimiento-de-Comentarios-con-Deep-Learning-NLP-/blob/main/README_DeepLearning_Sentimiento.md>
+cd <Clasificación de Sentimiento de Comentarios con Deep Learning (NLP)>
 
 # Instalar dependencias
 pip install tensorflow scikit-learn pandas numpy openpyxl
@@ -70,4 +70,4 @@ El notebook espera el archivo de datos en la ruta indicada en `RUTA_ARCHIVO` (po
 
 ## 👤 Autor
 
-Tu nombre — [LinkedIn](https://linkedin.com/in/tu-usuario) · [Portafolio](https://tu-portafolio.com)
+Harold Rodríguez B. — [LinkedIn](https://www.linkedin.com/in/harold-rodriguez-boisset/) 
